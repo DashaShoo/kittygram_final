@@ -1,0 +1,13 @@
+db.sqlite3
+.git
+.gitignore
+.env
+.venv
+env/
+venv/
+__pycache__
+.pytest_cache
+.coverage
+htmlcov/
+.DS_Store
+*.pyc
